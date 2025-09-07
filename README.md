@@ -31,7 +31,7 @@ The Spotify Music Recommendation System aims to recommend songs that align with 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/spotify-music-recommendation.git
+   git clone https://github.com/cypher-stack14/Spotify-Recommendation-Engine.git
    cd spotify-music-recommendation
    ```
 
