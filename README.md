@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://open.spotify.com" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="55" height="40"/> </a> Spotify -  Music Recommendation System and Data Analysis  <a> </h1>
+<h1 align="center"> <a href="https://open.spotify.com" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="55" height="40"/> </a> Spotify -  Music Recommendation Engine and Data Analysis  <a> </h1>
 
 
 ### About the Project
